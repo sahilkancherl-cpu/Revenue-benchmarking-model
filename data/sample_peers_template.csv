@@ -1,0 +1,4 @@
+city_id,state,population,total_revenue,property_tax_revenue,sales_tax_revenue,fees_revenue,utility_revenue,median_household_income,property_tax_rate,sales_tax_rate_local,pct_commercial_land_use,state_income_tax_flag,owns_utility_flag
+peer_001,TX,85000,142000000,38000000,17000000,42000000,45000000,98000,0.52,0.02,0.18,0,1
+peer_002,TX,62000,98000000,29000000,12000000,31000000,26000000,87000,0.48,0.02,0.15,0,1
+peer_003,OK,71000,105000000,26000000,15000000,29000000,35000000,79000,0.61,0.0425,0.21,0,1
